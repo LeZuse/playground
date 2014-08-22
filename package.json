@@ -1,0 +1,20 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "description": "Messing around ...",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "echo 'now let's download the panel'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/LeZuse/git-playground.git"
+  },
+  "author": "Tomas Ruzicka <tomasruzicka@abdoc.net> (https://github.com/lezuse)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeZuse/git-playground/issues"
+  },
+  "homepage": "https://github.com/LeZuse/git-playground"
+}
